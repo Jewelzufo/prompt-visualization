@@ -4,6 +4,7 @@
 J.A.G., 2025
 
 ---
+![Image](https://github.com/Jewelzufo/prompt-visualization/blob/main/Prompt%20visualization.png?raw=true)
 
 ## Introduction  
 
