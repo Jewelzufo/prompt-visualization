@@ -2,11 +2,11 @@
 
 ![Image](https://github.com/Jewelzufo/prompt-visualization/blob/main/visualizing%20the%20invisible.png?raw=true)
 
-[Prompt Visualization](visual-prompting.md)
+**Full Article** [Prompt Visualization](visual-prompting.md)
 
 ---
 
-**Summary of “Visual Thinking in AI Prompt Engineering: A Practical Approach”**
+##Summary of “Visual Thinking in AI Prompt Engineering: A Practical Approach”
 
 This article explores how visual-thinking techniques—such as flowcharts, mind maps, and role-based diagrams—can enhance AI prompt engineering. By mapping out prompt structures and potential AI responses, teams gain clearer insights into how language models process information. Key techniques include:
 
